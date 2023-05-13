@@ -62,7 +62,7 @@ class Character implements Fighter {
   }
 
   receiveDamage(attackPoints: number): number {
-    const damage = this._defense - attackPoints;
+    const damage = attackPoints - this._defense;
     if (damage > 0) {
       this._lifePoints -= damage;
     }
