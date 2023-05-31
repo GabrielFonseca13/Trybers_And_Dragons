@@ -3,6 +3,17 @@
 Este é um projeto de um jogo de RPG baseado em texto chamado Trybers and Dragons, onde os jogadores podem embarcar em aventuras incríveis em um mundo de fantasia. Neste repositório, você encontrará todas as informações necessárias para começar a contribuir e aproveitar o jogo.
 O Trybers and Dragons é um jogo de RPG de texto baseado em turnos. Os jogadores assumem o papel de heróis que podem explorar o mundo, lutar contra monstros, completar missões e interagir com outros personagens. O jogo é executado em um console de texto simples e as ações são tomadas através de comandos de texto.
 
+# Contato
+Em caso de dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
+
+**Nome: Gabriel Fonseca**
+
+**LinkedIn:** https://www.linkedin.com/in/gabriel-fonseca-tech/
+
+**Email:** Gabriel.Fonseca@live.com
+
+Espero que este README seja útil para o desenvolvimento do projeto TrybeSmith.
+
 <!-- ## Tabela de Conteúdos
 
 - [Visão Geral](#visão-geral)
